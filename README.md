@@ -51,4 +51,6 @@ print(today_meal)
 
 모르는것이 있을경우에 leejr2127@proton.me로 문의 주세요
 
+문제점은 github Issue 에 올려주시거나 leejr2127.open(insta)로 문의 해주세요
+
 
